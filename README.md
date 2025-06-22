@@ -69,3 +69,5 @@ This project implements a portfolio optimization strategy using **Modern Portfol
 **Sayan Das**  
 *B.Tech + M.Tech in Mechanical & Financial Engineering*  
 *Indian Institute of Technology, Kharagpur (IIT Kharagpur)*
+
+---
